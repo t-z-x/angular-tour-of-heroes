@@ -9,6 +9,9 @@ ng generate class Hero
 ng generate component hero-detail
 
 ng generate service hero
+
+ng generate component messages
+ng generate service message --module=app
 ```
 
 ---
