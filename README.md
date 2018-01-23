@@ -1,9 +1,14 @@
 ```shell
 ng new your-app-name
+
 ng serve --open # -o
+
 ng generate component heroes
 ng generate class Hero 
+
 ng generate component hero-detail
+
+ng generate service hero
 ```
 
 ---
