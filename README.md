@@ -1,3 +1,13 @@
+```shell
+ng new your-app-name
+ng serve --open # -o
+ng generate component heroes
+ng generate class Hero 
+ng generate component hero-detail
+```
+
+---
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
