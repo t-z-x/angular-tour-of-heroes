@@ -18,6 +18,8 @@ ng generate service message --module=app
 ng generate module app-routing --flat --module=app
 
 ng generate component dashboard
+
+ng generate service in-memory-data --module=app
 ```
 
 ---
